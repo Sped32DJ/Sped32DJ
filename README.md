@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sped32DJ
 - 👀 I’m interested in Arch Linux and Open Source Software
-- 🌱 I’m currently learning Python and Bash scriting
-- 💞️ I’m looking to collaborate on small projects
+- 🌱 I’m currently learning C++ (Maybe some Rust). Python and Bash scriting
 - 📫 How to reach me: @ToptearSped32DJ Twitter/Instagram
 - Currently a first year at UCR in Computer Engineering
 <!---
